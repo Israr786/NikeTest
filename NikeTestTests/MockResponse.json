@@ -1,0 +1,276 @@
+{
+"feed": {
+"title": "Coming Soon",
+"id": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.json",
+"author": {
+"name": "iTunes Store",
+"uri": "http://wwww.apple.com/us/itunes/"
+},
+"links": [
+{
+"self": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.json"
+},
+{
+"alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=1396220241&app=music"
+}
+],
+"copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+"country": "us",
+"icon": "http://itunes.apple.com/favicon.ico",
+"updated": "2020-03-04T01:58:48.000-08:00",
+"results": [
+{
+"artistName": "Lady Gaga",
+"id": "1500951604",
+"releaseDate": "2020-04-10",
+"name": "Chromatica",
+"kind": "album",
+"copyright": "℗ 2020 Interscope Records",
+"artistId": "277293880",
+"artistUrl": "https://music.apple.com/us/artist/lady-gaga/277293880?app=music",
+"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/cb/1d/32/cb1d32f1-9ce1-0fb4-839a-76c3cab243f1/20UMGIM15390.rgb.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"url": "https://music.apple.com/us/album/chromatica/1500951604?app=music"
+},
+{
+"artistName": "The Weeknd",
+"id": "1499378108",
+"releaseDate": "2020-03-20",
+"name": "After Hours",
+"kind": "album",
+"copyright": "℗ 2020 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.",
+"artistId": "479756766",
+"contentAdvisoryRating": "Explicit",
+"artistUrl": "https://music.apple.com/us/artist/the-weeknd/479756766?app=music",
+"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/06/e5/8c/06e58ce4-a813-8d5b-ef64-03a69064773c/20UMGIM12176.rgb.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"url": "https://music.apple.com/us/album/after-hours/1499378108?app=music"
+},
+{
+"artistName": "J Balvin",
+"id": "1500490683",
+"releaseDate": "2020-03-19",
+"name": "Colores",
+"kind": "album",
+"copyright": "Universal Music Latino; ℗ 2020 UMG Recordings, Inc.",
+"artistId": "444520760",
+"artistUrl": "https://music.apple.com/us/artist/j-balvin/444520760?app=music",
+"artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/0f/16/dc/0f16dc27-a647-01ca-ff46-2da95e65c1b8/20UMGIM10542.rgb.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "1119",
+"name": "Urbano latino",
+"url": "https://itunes.apple.com/us/genre/id1119"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "12",
+"name": "Latino",
+"url": "https://itunes.apple.com/us/genre/id12"
+}
+],
+"url": "https://music.apple.com/us/album/colores/1500490683?app=music"
+},
+{
+"artistName": "Various Artists",
+"id": "1487574536",
+"releaseDate": "2020-03-13",
+"name": "TROLLS: World Tour (Original Motion Picture Soundtrack)",
+"kind": "album",
+"copyright": "℗ This Compilation (P) 2020 RCA Records, a division of Sony Music Entertainment",
+"artistId": "80204262",
+"artistUrl": "https://music.apple.com/us/artist/various-artists/80204262?app=music",
+"artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/e9/b0/9e/e9b09e53-21b7-520a-bb5e-7758810be66f/886448132882.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "4",
+"name": "Children's Music",
+"url": "https://itunes.apple.com/us/genre/id4"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"url": "https://music.apple.com/us/album/trolls-world-tour-original-motion-picture-soundtrack/1487574536?app=music"
+},
+{
+"artistName": "PARTYNEXTDOOR",
+"id": "1500660135",
+"releaseDate": "2020-03-13",
+"name": "PARTYMOBILE",
+"kind": "album",
+"copyright": "℗ 2019, 2020 OVO Sound/Warner Records Inc.",
+"artistId": "666648192",
+"contentAdvisoryRating": "Explicit",
+"artistUrl": "https://music.apple.com/us/artist/partynextdoor/666648192?app=music",
+"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/69/74/89/69748929-f8db-42ac-a280-49ddbb9b3e06/093624894070.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"url": "https://music.apple.com/us/album/partymobile/1500660135?app=music"
+},
+{
+"artistName": "Sam Hunt",
+"id": "1497390717",
+"releaseDate": "2020-04-03",
+"name": "SOUTHSIDE",
+"kind": "album",
+"copyright": "An MCA Nashville Release; ℗ 2020 UMG Recordings, Inc.",
+"artistId": "214150835",
+"artistUrl": "https://music.apple.com/us/artist/sam-hunt/214150835?app=music",
+"artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/70/78/ee/7078ee4b-1bee-9691-b037-bc9e83316f65/20UMGIM07555.rgb.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "6",
+"name": "Country",
+"url": "https://itunes.apple.com/us/genre/id6"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"url": "https://music.apple.com/us/album/southside/1497390717?app=music"
+},
+{
+"artistName": "Jessie Ware",
+"id": "1498945382",
+"releaseDate": "2020-06-05",
+"name": "What's Your Pleasure?",
+"kind": "album",
+"copyright": "A PMR / Virgin EMI Records release; ℗ 2020 Universal Music Operations Limited",
+"artistId": "471286553",
+"artistUrl": "https://music.apple.com/us/artist/jessie-ware/471286553?app=music",
+"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/47/03/39/47033970-a97a-e001-c84f-05365bd02f18/20UMGIM08956.rgb.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"url": "https://music.apple.com/us/album/whats-your-pleasure/1498945382?app=music"
+},
+{
+"artistName": "Perfume Genius",
+"id": "1498608837",
+"releaseDate": "2020-05-15",
+"name": "Set My Heart on Fire Immediately",
+"kind": "album",
+"copyright": "℗ 2020 Matador",
+"artistId": "374887266",
+"artistUrl": "https://music.apple.com/us/artist/perfume-genius/374887266?app=music",
+"artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/22/70/b6227007-282f-2407-6acc-d63e470418b9/cover.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "20",
+"name": "Alternative",
+"url": "https://itunes.apple.com/us/genre/id20"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"url": "https://music.apple.com/us/album/set-my-heart-on-fire-immediately/1498608837?app=music"
+},
+{
+"artistName": "Neck Deep",
+"id": "1498663190",
+"releaseDate": "2020-07-31",
+"name": "All Distortions Are Intentional",
+"kind": "album",
+"copyright": "℗ 2020 Hopeless Records, Inc.",
+"artistId": "554682150",
+"artistUrl": "https://music.apple.com/us/artist/neck-deep/554682150?app=music",
+"artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/1b/20/fe/1b20fee2-2e2f-d00e-5fa4-35ecd33a0809/ADAI_COVER_3000px.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "21",
+"name": "Rock",
+"url": "https://itunes.apple.com/us/genre/id21"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "20",
+"name": "Alternative",
+"url": "https://itunes.apple.com/us/genre/id20"
+}
+],
+"url": "https://music.apple.com/us/album/all-distortions-are-intentional/1498663190?app=music"
+},
+{
+"artistName": "Kelsea Ballerini",
+"id": "1492761620",
+"releaseDate": "2020-03-20",
+"name": "kelsea",
+"kind": "album",
+"copyright": "℗ 2020 Black River Entertainment",
+"artistId": "382270241",
+"artistUrl": "https://music.apple.com/us/artist/kelsea-ballerini/382270241?app=music",
+"artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/0d/24/92/0d24923b-4d1a-a549-cf2d-0e6547a0a414/194491778545.jpg/200x200bb.png",
+"genres": [
+{
+"genreId": "6",
+"name": "Country",
+"url": "https://itunes.apple.com/us/genre/id6"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"url": "https://music.apple.com/us/album/kelsea/1492761620?app=music"
+}
+]
+}
+}
